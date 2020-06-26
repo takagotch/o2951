@@ -1,7 +1,7 @@
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://williamcanin.me"
+url: "https://takagotch.github.io"
 # the subpath of your site, e.g. /blog
-baseurl: "/typing-jekyll-template"
+baseurl: "/page35"
 
 # Plugins de player - Jektify
 jektify:
@@ -117,3 +117,5 @@ exclude:
   - Rakefile
   - yarn.lock
   - Makefile
+
+
